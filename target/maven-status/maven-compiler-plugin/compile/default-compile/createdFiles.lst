@@ -1,0 +1,11 @@
+com\bpm\configuration\CORSFilter.class
+com\bpm\dao\inf\CatalogDao.class
+com\bpm\service\CatalogServiceImpl.class
+com\bpm\controller\CartController.class
+com\bpm\controller\CatalogController.class
+com\bpm\configuration\BpmInitializer.class
+com\bpm\dao\impl\CatalogDaoImpl.class
+com\bpm\service\CatalogServiceInf.class
+com\bpm\model\CartItem.class
+com\bpm\model\CatalogItem.class
+com\bpm\configuration\BpmConfiguration.class
